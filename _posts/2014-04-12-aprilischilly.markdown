@@ -1,7 +1,7 @@
 ---
 layout: postalone
-title:  "July is hot"
+title:  "April is chilly"
 date:   2014-04-12
 ---
 
-apris can be chilly
+april can be chilly
