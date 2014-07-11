@@ -1,7 +1,7 @@
 ---
 layout: postalone
 title:  "July is hot"
-date:   2014-07-01
+date:   2014-08-03
 ---
 
-july is hot....
+Waou August is burning......
