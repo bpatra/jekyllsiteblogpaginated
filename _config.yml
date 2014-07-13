@@ -2,7 +2,7 @@
 title: A sample site with paginated blog page.
 email: your-email@domain.com
 description: "This is an example of a site with a paginated blog main page."
-baseurl: ""
+baseurl: "/jekyllsiteblogpaginated"
 url: "http://yourdomain.com"
 paginate: 2
 paginate_path: "blog/page:num"
